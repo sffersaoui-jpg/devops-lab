@@ -1,4 +1,3 @@
-const DB_PASSWORD = "s3cret-PROD-2026!";
 const STATUS = "all systems nominal";
 console.log(STATUS);
 
